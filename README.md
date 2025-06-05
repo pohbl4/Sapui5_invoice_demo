@@ -63,8 +63,3 @@ To run this project, you need the following tools installed on your machine:
 3. Click on an invoice to view its details.
 4. Optionally, open the "Hello" dialog as a UI demonstration.
 
----
-
-## License
-
-This project is intended for educational and demonstration purposes only.
